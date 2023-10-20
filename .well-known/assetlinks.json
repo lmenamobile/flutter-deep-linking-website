@@ -2,9 +2,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.fernandoherrera.miscelaneos",
+      "package_name": "com.kubo.pamii",
       "sha256_cert_fingerprints":
-      ["D8:78:2B:42:79:A4:46:35:D5:8D:AE:1F:49:ED:65:22:A7:48:8E:CC:F7:11:EC:E6:5D:09:C0:35:A8:4A:40:E8"]
+      ["60:7C:3B:11:B7:AB:B4:CF:51:38:AA:E0:6E:3B:85:9F:A8:92:35:3F:D0:A1:44:A9:90:60:89:7E:8F:75:22:E7"]
     }
   }]
   
